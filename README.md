@@ -4,8 +4,7 @@
 Simple Token-Based Lottery
 
 ## Project Description
-This project introduces a decentralized platform where users can participate in a token-based lottery system. The system leverages blockchain technology to ensure transparency, fairness, and trust. Participants purchase tokens to enter the lottery, and winners are randomly selected through an automated smart contract mechanism. Additionally, the platform allows digital artists to buy, sell, and auction their work as NFTs, enhancing the scope for creative engagement.
-
+This project introduces a decentralized platform where users can participate in a token-based lottery system. The system leverages blockchain technology to ensure transparency, fairness, and trust. Participants purchase tokens to enter the lottery, and winners are randomly selected through an automated smart contract mechanism. Additionally, the platform allows digital artists to buy, sell, and auction their work as NFTs, enhancing the scope for creative engagement. 
 ## Project Vision
 Our vision is to create a secure and transparent ecosystem that combines entertainment with value creation. The lottery platform will provide users with fair winning opportunities while empowering digital artists to showcase and monetize their creations in a decentralized marketplace.
 
