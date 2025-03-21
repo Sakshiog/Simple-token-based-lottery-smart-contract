@@ -23,7 +23,7 @@ Our vision is to create a secure and transparent ecosystem that combines enterta
 - **Transparent Transactions:** All transactions are recorded on the blockchain, ensuring accountability and preventing manipulation.
 - **User-Friendly Interface:** Provides intuitive design for seamless participation and engagement.
 
-##contract Address:
+## contract Address:
 0x5c3c0aeEC3598d3869335Be92AA90E724cbAA23c
 
 ![image](https://github.com/user-attachments/assets/26c09cbc-beec-47b1-88c6-7d52fde73528)
